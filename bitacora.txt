@@ -19,3 +19,7 @@ tuvimos la reunión del grupo de becarios donde nos dieron la bienvenida y expli
 mostraron y explicaron un poco más a fondo el proyecto.
 
 Día 6(2/12/2024): Toca seguir formándome con el curso de javascript, enfocandome poco a poco hacia angular, tuvimos reunión con el grupo de proyeto y seguimos con el curso.
+
+Día 7(3/12/2024): Terminamos el curso de JS para optener una mejor base o un poco más consolidada y empezamos con un curso de TypeScript.
+
+Día 8(5/12/2024): Nos introdujeron en la reunión para hablar sobre el proyecto y acceso al propio, empezamos el curso de Angular e iniciamos a depurar y modificar el proyecto
