@@ -23,3 +23,7 @@ Día 6(2/12/2024): Toca seguir formándome con el curso de javascript, enfocando
 Día 7(3/12/2024): Terminamos el curso de JS para optener una mejor base o un poco más consolidada y empezamos con un curso de TypeScript.
 
 Día 8(5/12/2024): Nos introdujeron en la reunión para hablar sobre el proyecto y acceso al propio, empezamos el curso de Angular e iniciamos a depurar y modificar el proyecto
+
+Día 9(10/12/2024): Me han mandado un trabajo diferenta a mi compañero y estoy a la espera del envío de la información para trabajar en ello y poner en práctica lo
+aprendido en los cursos. Aparte de eso seguimos aprendiendo ángular y typescript.
+
