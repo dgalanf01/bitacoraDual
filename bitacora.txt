@@ -1,6 +1,6 @@
 Alumno: Daniel Galán Frías.
 Empresa: Viewnext IA.
-Período: Matutino Dual/ 8:15 - 15:00.
+Período: Matutino Dual.
 Tutor: David Rodrigo García.
 
 Día 1(21/11/2024): Nos estuvieron ayudando a configurar nuestro equipo, una vez terminamos solo teníamos acceso a un curso obligatorio y lo empecé a realizar.
@@ -24,17 +24,17 @@ Día 7(3/12/2024): Terminamos el curso de JS para optener una mejor base o un po
 
 Día 8(5/12/2024): Nos introdujeron en la reunión para hablar sobre el proyecto y acceso al propio, empezamos el curso de Angular e iniciamos a depurar y modificar el proyecto
 
-Día 9(10/12/2024): Me han mandado un trabajo diferenta a mi compañero y estoy a la espera del envío de la información para trabajar en ello y poner en práctica lo
+Día 9(10/12/2024)8:15 - 15:00: Me han mandado un trabajo diferenta a mi compañero y estoy a la espera del envío de la información para trabajar en ello y poner en práctica lo
 aprendido en los cursos. Aparte de eso seguimos aprendiendo ángular y typescript.
 
-Día 10(12/12/2024): Tuvimos una reunión matutina de control, estuve observando la documentación que me pasaron para la tarea que se me asignó, asginé parte de la mañana a
+Día 10(12/12/2024)8:15 - 15:00: Tuvimos una reunión matutina de control, estuve observando la documentación que me pasaron para la tarea que se me asignó, asginé parte de la mañana a
 continuar mi curso de ángular.
 
-Día 11(13/12/2024): Volvimos a tener otra reunión matutina, donde pregunté mis dudas respecto a la tarea que se me asignó, estuve haciendo pruebas sobre mi tarea casi hasta
+Día 11(13/12/2024)8:15 - 15:00: Volvimos a tener otra reunión matutina, donde pregunté mis dudas respecto a la tarea que se me asignó, estuve haciendo pruebas sobre mi tarea casi hasta
 el final del día, viendo que no sacaba nada en claro y que no sabía como enfocarlo pregunté al tutor y a otra persona al cargo sobre ello, tras resolver mis nuevas dudas lo estuve
 intentando hasta la frustración, decidí parar, enfocarme hasta el final de la mañana en mi curso de ángular.
 
-Día 12(16/12/2024): Nos reunimos con el tutor de nuevo en la mañana, realicé unas preguntas sobre mi tarea que no tenía muy claras y tras la resolución de las mismas me puse
+Día 12(16/12/2024)8:15 - 15:00: Nos reunimos con el tutor de nuevo en la mañana, realicé unas preguntas sobre mi tarea que no tenía muy claras y tras la resolución de las mismas me puse
 con ello toda la mañana, a lo largo del día tuve que preguntar respecto a una duda de los datos, me la resolvieron y me volví a enfocar en mi tarea.
 
-Día 13(17/12/2024): Nos volvimos a reunir con el tutor y le comenté los avances realizados en el día anterior, el resto de la mañana volví a enfocarme en la tarea que se me asignó.
+Día 13(17/12/2024)8:15 - 15:00: Nos volvimos a reunir con el tutor y le comenté los avances realizados en el día anterior, el resto de la mañana volví a enfocarme en la tarea que se me asignó.
