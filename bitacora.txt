@@ -3,26 +3,26 @@ Empresa: Viewnext IA.
 Período: Matutino Dual.
 Tutor: David Rodrigo García.
 
-Día 1(21/11/2024): Nos estuvieron ayudando a configurar nuestro equipo, una vez terminamos solo teníamos acceso a un curso obligatorio y lo empecé a realizar.
+Día 1(21/11/2024)8:30 - 15:00: Nos estuvieron ayudando a configurar nuestro equipo, una vez terminamos solo teníamos acceso a un curso obligatorio y lo empecé a realizar.
 
-Día 2(22/11/2024): Terminé el curso obligatorio y nos dieron de alta en los demás cursos obligatorios, a media mañana nos reunimos con nuestro pem/tutor para
+Día 2(22/11/2024)8:30 - 15:00: Terminé el curso obligatorio y nos dieron de alta en los demás cursos obligatorios, a media mañana nos reunimos con nuestro pem/tutor para
 conocernos y comentarnos más o menos que realizaríamos.
 
-Día 3(26/11/2024): Todavía no nos dieron de alta en la plataforma con cursos necesarios para nuestra labor, así que terminé de realizar los cursos que me faltaron y
+Día 3(26/11/2024)8:30 - 15:00: Todavía no nos dieron de alta en la plataforma con cursos necesarios para nuestra labor, así que terminé de realizar los cursos que me faltaron y
 empecé a buscar otros cursos interesantes no obligatorios, css, html y javascript; tuvimos reunión con nuestro equipo de proyecto.
 
-Día 4(28/11/2024): Ya nos dieron de alta en la plataforma con cursos interesantes y más específicos para nuestro proyecto, estuvimos reunidos con nuestro equipo de
+Día 4(28/11/2024)8:30 - 15:00: Ya nos dieron de alta en la plataforma con cursos interesantes y más específicos para nuestro proyecto, estuvimos reunidos con nuestro equipo de
 proyecto, nos comentaron un poco más respecto a él y seguí con cursos interesantes respecto a javascript para obtener una base más consistente.
 
-Día 5(29/11/2024): Seguimos con el curso de javascript y deciendo si hacer un curso de angular o springboot, tuvimos otra reunión con el equipo del proyecto bastante breve,
+Día 5(29/11/2024)8:30 - 15:00: Seguimos con el curso de javascript y deciendo si hacer un curso de angular o springboot, tuvimos otra reunión con el equipo del proyecto bastante breve,
 tuvimos la reunión del grupo de becarios donde nos dieron la bienvenida y explicaron la plataforma, al final de la jornada tuvimos otra reunión donde nos
 mostraron y explicaron un poco más a fondo el proyecto.
 
-Día 6(2/12/2024): Toca seguir formándome con el curso de javascript, enfocandome poco a poco hacia angular, tuvimos reunión con el grupo de proyeto y seguimos con el curso.
+Día 6(2/12/2024)8:30 - 15:00: Toca seguir formándome con el curso de javascript, enfocandome poco a poco hacia angular, tuvimos reunión con el grupo de proyeto y seguimos con el curso.
 
-Día 7(3/12/2024): Terminamos el curso de JS para optener una mejor base o un poco más consolidada y empezamos con un curso de TypeScript.
+Día 7(3/12/2024)8:30 - 15:00: Terminamos el curso de JS para optener una mejor base o un poco más consolidada y empezamos con un curso de TypeScript.
 
-Día 8(5/12/2024): Nos introdujeron en la reunión para hablar sobre el proyecto y acceso al propio, empezamos el curso de Angular e iniciamos a depurar y modificar el proyecto
+Día 8(5/12/2024)8:30 - 15:00: Nos introdujeron en la reunión para hablar sobre el proyecto y acceso al propio, empezamos el curso de Angular e iniciamos a depurar y modificar el proyecto
 
 Día 9(10/12/2024)8:15 - 15:00: Me han mandado un trabajo diferenta a mi compañero y estoy a la espera del envío de la información para trabajar en ello y poner en práctica lo
 aprendido en los cursos. Aparte de eso seguimos aprendiendo ángular y typescript.
@@ -38,3 +38,7 @@ Día 12(16/12/2024)8:15 - 15:00: Nos reunimos con el tutor de nuevo en la mañan
 con ello toda la mañana, a lo largo del día tuve que preguntar respecto a una duda de los datos, me la resolvieron y me volví a enfocar en mi tarea.
 
 Día 13(17/12/2024)8:15 - 15:00: Nos volvimos a reunir con el tutor y le comenté los avances realizados en el día anterior, el resto de la mañana volví a enfocarme en la tarea que se me asignó.
+
+Día 14(19/12/2024)8:15 - 15:00:
+
+Día 15(20/12/2024)8:15 - 15:00:
