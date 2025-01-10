@@ -47,3 +47,6 @@ comprobando si funcionaban como quería y aparentemente si.
 Solamente falta un apartado de la tarea que se me ha encomendado que no he sido capaz de elaborar.
 
 Día 16(9/01/2025)8:15 - 15:00: Hoy volvemos a ingresar en la empresa, tendremos nuestra reunión diaria con nuestro tutor y esperamos noticias sobre la tarea que estábamos realizando.
+
+Día 17(10/01/2025)8:15 - 15:00: Nos reunimos con nuestro tutor, nos pusieron un poco más al tanto del proyecto, nos dieron acceso a la plataforma y comprobamos la tarea que se nos encomendó,
+aparentemente 100% funcional, tuve que corregir unos errores leves y añadir algunas opciones, ya está todo modificado y presentado.
