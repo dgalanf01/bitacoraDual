@@ -56,10 +56,11 @@ que pulir en dicha tarea y que juguemos un poco con ella para ver como se compor
 
 Día 19(14/01/2025)8:15 - 15:00: Tuvimos nuestra reunión matutina con nuestro tutor, me comentaron algunas irregularidades en mi tarea y estuve todo el día intentando resolverlas.
 
-Día20(16/01/2025)8:15 - 15:00: Empezamos con la reunión con nuestro tutor, hablé con él de las irregularidades que me comentaron el día anterior y me dio alguna idea para poder
+Día 20(16/01/2025)8:15 - 15:00: Empezamos con la reunión con nuestro tutor, hablé con él de las irregularidades que me comentaron el día anterior y me dio alguna idea para poder
 resolverlo.
 
-
+Día 21(17/01/2025)8:15 - 15:00: Esta vez la reunión se retrasó un poco, nos pusieron un poco más al día con el proyecto, terminamos de configurar nuestro equipo de trabajo, esperando a recibir
+mi parte a desarrollar decidí continuar con el curso de Angular.
 
 
 
