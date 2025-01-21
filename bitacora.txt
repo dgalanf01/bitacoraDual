@@ -62,5 +62,9 @@ resolverlo.
 Día 21(17/01/2025)8:15 - 15:00: Esta vez la reunión se retrasó un poco, nos pusieron un poco más al día con el proyecto, terminamos de configurar nuestro equipo de trabajo, esperando a recibir
 mi parte a desarrollar decidí continuar con el curso de Angular.
 
+Día 22(20/01/2025)8:15 - 15:00: Terminamos de configurar la plataforma de trabajo e instalamos lo necesario para empezar a formar
+parte de manera activa con nuestro grupo de trabajo.
+
+Día 23(21/01/2025)8:15 - 15:00: Ya empiezo la tarea principal que se nos ha encomendado.
 
 
