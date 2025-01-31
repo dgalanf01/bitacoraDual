@@ -5,18 +5,13 @@ Tutor: David Rodrigo García.
 
 Día 1(21/11/2024)8:30 - 15:00: Nos estuvieron ayudando a configurar nuestro equipo, una vez terminamos solo teníamos acceso a un curso obligatorio y lo empecé a realizar.
 
-Día 2(22/11/2024)8:30 - 15:00: Terminé el curso obligatorio y nos dieron de alta en los demás cursos obligatorios, a media mañana nos reunimos con nuestro pem/tutor para
-conocernos y comentarnos más o menos que realizaríamos.
+Día 2(22/11/2024)8:30 - 15:00: Terminé el curso obligatorio y nos dieron de alta en los demás cursos obligatorios, a media mañana nos reunimos con nuestro pem/tutor para conocernos y comentarnos más o menos que realizaríamos.
 
-Día 3(26/11/2024)8:30 - 15:00: Todavía no nos dieron de alta en la plataforma con cursos necesarios para nuestra labor, así que terminé de realizar los cursos que me faltaron y
-empecé a buscar otros cursos interesantes no obligatorios, css, html y javascript; tuvimos reunión con nuestro equipo de proyecto.
+Día 3(26/11/2024)8:30 - 15:00: Todavía no nos dieron de alta en la plataforma con cursos necesarios para nuestra labor, así que terminé de realizar los cursos que me faltaron y empecé a buscar otros cursos interesantes no obligatorios, css, html y javascript; tuvimos reunión con nuestro equipo de proyecto.
 
-Día 4(28/11/2024)8:30 - 15:00: Ya nos dieron de alta en la plataforma con cursos interesantes y más específicos para nuestro proyecto, estuvimos reunidos con nuestro equipo de
-proyecto, nos comentaron un poco más respecto a él y seguí con cursos interesantes respecto a javascript para obtener una base más consistente.
+Día 4(28/11/2024)8:30 - 15:00: Ya nos dieron de alta en la plataforma con cursos interesantes y más específicos para nuestro proyecto, estuvimos reunidos con nuestro equipo de proyecto, nos comentaron un poco más respecto a él y seguí con cursos interesantes respecto a javascript para obtener una base más consistente.
 
-Día 5(29/11/2024)8:30 - 15:00: Seguimos con el curso de javascript y deciendo si hacer un curso de angular o springboot, tuvimos otra reunión con el equipo del proyecto bastante breve,
-tuvimos la reunión del grupo de becarios donde nos dieron la bienvenida y explicaron la plataforma, al final de la jornada tuvimos otra reunión donde nos
-mostraron y explicaron un poco más a fondo el proyecto.
+Día 5(29/11/2024)8:30 - 15:00: Seguimos con el curso de javascript y deciendo si hacer un curso de angular o springboot, tuvimos otra reunión con el equipo del proyecto bastante breve, tuvimos la reunión del grupo de becarios donde nos dieron la bienvenida y explicaron la plataforma, al final de la jornada tuvimos otra reunión donde nos mostraron y explicaron un poco más a fondo el proyecto.
 
 Día 6(2/12/2024)8:30 - 15:00: Toca seguir formándome con el curso de javascript, enfocandome poco a poco hacia angular, tuvimos reunión con el grupo de proyeto y seguimos con el curso.
 
@@ -24,51 +19,37 @@ Día 7(3/12/2024)8:30 - 15:00: Terminamos el curso de JS para optener una mejor 
 
 Día 8(5/12/2024)8:30 - 15:00: Nos introdujeron en la reunión para hablar sobre el proyecto y acceso al propio, empezamos el curso de Angular e iniciamos a depurar y modificar el proyecto
 
-Día 9(10/12/2024)8:15 - 15:00: Me han mandado un trabajo diferenta a mi compañero y estoy a la espera del envío de la información para trabajar en ello y poner en práctica lo
-aprendido en los cursos. Aparte de eso seguimos aprendiendo ángular y typescript.
+Día 9(10/12/2024)8:15 - 15:00: Me han mandado un trabajo diferenta a mi compañero y estoy a la espera del envío de la información para trabajar en ello y poner en práctica lo aprendido en los cursos. Aparte de eso seguimos aprendiendo ángular y typescript.
 
-Día 10(12/12/2024)8:15 - 15:00: Tuvimos una reunión matutina de control, estuve observando la documentación que me pasaron para la tarea que se me asignó, asginé parte de la mañana a
-continuar mi curso de ángular.
+Día 10(12/12/2024)8:15 - 15:00: Tuvimos una reunión matutina de control, estuve observando la documentación que me pasaron para la tarea que se me asignó, asginé parte de la mañana a continuar mi curso de ángular.
 
-Día 11(13/12/2024)8:15 - 15:00: Volvimos a tener otra reunión matutina, donde pregunté mis dudas respecto a la tarea que se me asignó, estuve haciendo pruebas sobre mi tarea casi hasta
-el final del día, viendo que no sacaba nada en claro y que no sabía como enfocarlo pregunté al tutor y a otra persona al cargo sobre ello, tras resolver mis nuevas dudas lo estuve
-intentando hasta la frustración, decidí parar, enfocarme hasta el final de la mañana en mi curso de ángular.
+Día 11(13/12/2024)8:15 - 15:00: Volvimos a tener otra reunión matutina, donde pregunté mis dudas respecto a la tarea que se me asignó, estuve haciendo pruebas sobre mi tarea casi hasta el final del día, viendo que no sacaba nada en claro y que no sabía como enfocarlo pregunté al tutor y a otra persona al cargo sobre ello, tras resolver mis nuevas dudas lo estuve intentando hasta la frustración, decidí parar, enfocarme hasta el final de la mañana en mi curso de ángular.
 
-Día 12(16/12/2024)8:15 - 15:00: Nos reunimos con el tutor de nuevo en la mañana, realicé unas preguntas sobre mi tarea que no tenía muy claras y tras la resolución de las mismas me puse
-con ello toda la mañana, a lo largo del día tuve que preguntar respecto a una duda de los datos, me la resolvieron y me volví a enfocar en mi tarea.
+Día 12(16/12/2024)8:15 - 15:00: Nos reunimos con el tutor de nuevo en la mañana, realicé unas preguntas sobre mi tarea que no tenía muy claras y tras la resolución de las mismas me puse con ello toda la mañana, a lo largo del día tuve que preguntar respecto a una duda de los datos, me la resolvieron y me volví a enfocar en mi tarea.
 
 Día 13(17/12/2024)8:15 - 15:00: Nos volvimos a reunir con el tutor y le comenté los avances realizados en el día anterior, el resto de la mañana volví a enfocarme en la tarea que se me asignó.
 
-Día 14(19/12/2024)8:15 - 15:00: Como todos los días tuvimos una reunión a primera hora con nuestro tutor, para hablar sobre como llevamos nuestra parte de la tarea, estuve toda la mañana
-intentando averiguar como realizar los cambios para que me mostrara el resultado deseado y al final del día logré lo que estaba buscando aunque no fuera lo que buscaban.
+Día 14(19/12/2024)8:15 - 15:00: Como todos los días tuvimos una reunión a primera hora con nuestro tutor, para hablar sobre como llevamos nuestra parte de la tarea, estuve toda la mañana intentando averiguar como realizar los cambios para que me mostrara el resultado deseado y al final del día logré lo que estaba buscando aunque no fuera lo que buscaban.
 
-Día 15(20/12/2024)8:15 - 15:00: Nos reunimos con nuestro tutor como de costumbre, aproveché para que me guiaran un poco más respecto a mi tarea, le estuve dando vueltas durante todo el día y
-comprobando si funcionaban como quería y aparentemente si.
-Solamente falta un apartado de la tarea que se me ha encomendado que no he sido capaz de elaborar.
+Día 15(20/12/2024)8:15 - 15:00: Nos reunimos con nuestro tutor como de costumbre, aproveché para que me guiaran un poco más respecto a mi tarea, le estuve dando vueltas durante todo el día y comprobando si funcionaban como quería y aparentemente si. Solamente falta un apartado de la tarea que se me ha encomendado que no he sido capaz de elaborar.
 
 Día 16(9/01/2025)8:15 - 15:00: Hoy volvemos a ingresar en la empresa, tendremos nuestra reunión diaria con nuestro tutor y esperamos noticias sobre la tarea que estábamos realizando.
 
-Día 17(10/01/2025)8:15 - 15:00: Nos reunimos con nuestro tutor, nos pusieron un poco más al tanto del proyecto, nos dieron acceso a la plataforma y comprobamos la tarea que se nos encomendó,
-aparentemente 100% funcional, tuve que corregir unos errores leves y añadir algunas opciones, ya está todo modificado y presentado.
+Día 17(10/01/2025)8:15 - 15:00: Nos reunimos con nuestro tutor, nos pusieron un poco más al tanto del proyecto, nos dieron acceso a la plataforma y comprobamos la tarea que se nos encomendó, aparentemente 100% funcional, tuve que corregir unos errores leves y añadir algunas opciones, ya está todo modificado y presentado.
 
-Día 18(13/01/2025)8:15 - 15:00: Hoy hemos tenido nuestra reunión matutina con nuestro tutor para hablar sobre la tarea que estamos realizando, nos ha comentado algunos detalles que tenemos
-que pulir en dicha tarea y que juguemos un poco con ella para ver como se comporta.
+Día 18(13/01/2025)8:15 - 15:00: Hoy hemos tenido nuestra reunión matutina con nuestro tutor para hablar sobre la tarea que estamos realizando, nos ha comentado algunos detalles que tenemos que pulir en dicha tarea y que juguemos un poco con ella para ver como se comporta.
 
 Día 19(14/01/2025)8:15 - 15:00: Tuvimos nuestra reunión matutina con nuestro tutor, me comentaron algunas irregularidades en mi tarea y estuve todo el día intentando resolverlas.
 
-Día 20(16/01/2025)8:15 - 15:00: Empezamos con la reunión con nuestro tutor, hablé con él de las irregularidades que me comentaron el día anterior y me dio alguna idea para poder
-resolverlo.
+Día 20(16/01/2025)8:15 - 15:00: Empezamos con la reunión con nuestro tutor, hablé con él de las irregularidades que me comentaron el día anterior y me dio alguna idea para poder resolverlo.
 
-Día 21(17/01/2025)8:15 - 15:00: Esta vez la reunión se retrasó un poco, nos pusieron un poco más al día con el proyecto, terminamos de configurar nuestro equipo de trabajo, esperando a recibir
-mi parte a desarrollar decidí continuar con el curso de Angular.
+Día 21(17/01/2025)8:15 - 15:00: Esta vez la reunión se retrasó un poco, nos pusieron un poco más al día con el proyecto, terminamos de configurar nuestro equipo de trabajo, esperando a recibir mi parte a desarrollar decidí continuar con el curso de Angular.
 
-Día 22(20/01/2025)8:15 - 15:00: Terminamos de configurar la plataforma de trabajo e instalamos lo necesario para empezar a formar
-parte de manera activa con nuestro grupo de trabajo.
+Día 22(20/01/2025)8:15 - 15:00: Terminamos de configurar la plataforma de trabajo e instalamos lo necesario para empezar a formar parte de manera activa con nuestro grupo de trabajo.
 
 Día 23(21/01/2025)8:15 - 15:00: Ya empiezo la tarea principal que se nos ha encomendado.
 
-Día 24(23/01/2025)8:15 - 15:00: Han revisado la tarea que nos mandaron, me han dicho que relizaron cambios y que la revisara, estoy repartiendo el tiempo entre esto y la tarea de equipo que
-me encomendaron.
+Día 24(23/01/2025)8:15 - 15:00: Han revisado la tarea que nos mandaron, me han dicho que relizaron cambios y que la revisara, estoy repartiendo el tiempo entre esto y la tarea de equipo que me encomendaron.
 
 Día 25(24/01/2025)8:15 - 15:00: Seguimos con las reuniones matutinas y trabajando tanto en la tarea que nos pusieron dando retoques y con nuestro equipo
 
@@ -76,4 +57,8 @@ Día 26(27/01/2025)8:15 - 15:00: Terminé mi tarea de grupo, estuve continuando 
 
 Día 27(28/01/2025)8:15 - 15:00: Tuvimos la reunión matutina, estuve todo el día con una tarea haciendo comprobaciones de funcionamiento e intentando mejorar el código.
 
-Día 28(30/01/2025)8:15 - 15:00: Hoy tras la reunión me puse a trabajar en la nueva implementación que me asignaron
+Día 28(30/01/2025)8:15 - 15:00: Hoy tras la reunión me puse a trabajar en la nueva implementación que me asignaron.
+
+Día 29(31/01/2025)8:15 - 15:00: Como siempre tuvimos una reunión, donde me aclararon parte de dudas que tenía y donde me dieron un feedback bastante bueno respecto a las ideas que estaba teniendo. 
+
+
