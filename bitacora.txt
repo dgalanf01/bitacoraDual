@@ -66,3 +66,7 @@ Día 30(3/02/2025)8:15 - 15:00: Tuvimos una reunión de equipo donde estuvimos p
 Día 31(4/02/2025)8:15 - 15:00: Tuvimos una reunión para hablar sobre como íbamos en nuestras tareas, haciendo preguntas respecto a los problemas que nos íbamos encontrando e intentando resolverlos.
 
 Día 32(6/02/2025)8:15 - 15:00: Seguí comprobando y buscando el posible error que se encontraba en mi parte del trabajo, aparentemente se ubica en otra parte que no he estado mirando, estoy preguntando dudas respecto a como terminan de funcionar algunas partes del proyecto para poder ir sobre seguro.
+
+Día 33(7/02/2025)8:15 - 15:00: Como siempre tuve la reunión diaria con mi tutor, le estuve comentando un poco respecto a los avances que estaba haciendo en el proyecto y resolviendo algunas dudas, tuve varias reuniones con el equipo y finalmente estuve avanzando en el curso de angular.
+
+Día 34(10/02/2025)8:15 - 15:00: Hoy tuvimos reunión con el tutor, nos dijeron de actualizar unos datos de la tarea que se nos encomendó, más tarde tuvimo reunión con el equipo para como íbamos, estuvimos resolviendo algunas dudas y problemas que íbamos encontrando mientras avanzábamos en nuestra labor.
