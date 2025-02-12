@@ -47,7 +47,7 @@ Día 21(17/01/2025)8:15 - 15:00: Esta vez la reunión se retrasó un poco, nos p
 
 Día 22(20/01/2025)8:15 - 15:00: Terminamos de configurar la plataforma de trabajo e instalamos lo necesario para empezar a formar parte de manera activa con nuestro grupo de trabajo.
 
-Día 23(21/01/2025)8:15 - 15:00: Ya empiezo la tarea principal que se nos ha encomendado.
+Día 23(21/01/2025)8:15 - 15:00: Ya empiezo la tarea principal que se nos han encomendado.
 
 Día 24(23/01/2025)8:15 - 15:00: Han revisado la tarea que nos mandaron, me han dicho que relizaron cambios y que la revisara, estoy repartiendo el tiempo entre esto y la tarea de equipo que me encomendaron.
 
@@ -70,3 +70,7 @@ Día 32(6/02/2025)8:15 - 15:00: Seguí comprobando y buscando el posible error q
 Día 33(7/02/2025)8:15 - 15:00: Como siempre tuve la reunión diaria con mi tutor, le estuve comentando un poco respecto a los avances que estaba haciendo en el proyecto y resolviendo algunas dudas, tuve varias reuniones con el equipo y finalmente estuve avanzando en el curso de angular.
 
 Día 34(10/02/2025)8:15 - 15:00: Hoy tuvimos reunión con el tutor, nos dijeron de actualizar unos datos de la tarea que se nos encomendó, más tarde tuvimo reunión con el equipo para como íbamos, estuvimos resolviendo algunas dudas y problemas que íbamos encontrando mientras avanzábamos en nuestra labor.
+
+Día 35(11/02/2025)8:15 - 15:00: Tuvimos nuestra reunión diaria con el tutor, prácticamente mi día se fue en intentar solventar una migración en una parte del proyecto.
+
+Día 36(12/02/2025)8:15 - 15:00: Estuvimos toda la mañana reunido con nuestro tutor, hablando respecto a nuestra tarea e intentando desplegarla, comprobamos algunos errores de archivos y modificando pequeñas partes del código, aparentemente todo funciona perfectamente, falta seguir haciendo pruebas y terminar la migración del otro proyecto, aunque estamos un poco estancados en ello esperamos solucionarlo pronto.
