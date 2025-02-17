@@ -74,3 +74,7 @@ Día 34(10/02/2025)8:15 - 15:00: Hoy tuvimos reunión con el tutor, nos dijeron 
 Día 35(11/02/2025)8:15 - 15:00: Tuvimos nuestra reunión diaria con el tutor, prácticamente mi día se fue en intentar solventar una migración en una parte del proyecto.
 
 Día 36(12/02/2025)8:15 - 15:00: Estuvimos toda la mañana reunido con nuestro tutor, hablando respecto a nuestra tarea e intentando desplegarla, comprobamos algunos errores de archivos y modificando pequeñas partes del código, aparentemente todo funciona perfectamente, falta seguir haciendo pruebas y terminar la migración del otro proyecto, aunque estamos un poco estancados en ello esperamos solucionarlo pronto.
+
+Día 37(13/02/2025)8:15 - 15:00: Después de la reunión con el tutor estuve intentando solventar errores en nuestro trabajo de equipo, tras mucho buscar decidí comentar con mis compañeros el problema que me estaba encontrando, estuvimos buscando una solución y cuando la encontramos salieron varios errores más.
+
+Día 38(17/02/2025)8:15 - 15:00: Tras la reunión de grupo y tutor volví a solventar otros errores, pero tras ellos había más, se ha modificado la estructura que teníamos y estamos resolviendo todos los conflictos que hay respecto a la etapa anterior de la migración.
