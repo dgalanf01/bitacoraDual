@@ -97,3 +97,18 @@ me estaba encontrando, estuvimos buscando una solución y cuando la encontramos 
 
 Día 38(17/02/2025)8:15 - 15:00: Tras la reunión de grupo y tutor volví a solventar otros errores, pero tras ellos había más, se ha modificado la estructura que teníamos y estamos resolviendo todos los 
 conflictos que hay respecto a la etapa anterior de la migración.
+
+Día 39(18/02/2025)8:15 - 15:00: Tras la reunión con el tutor y reunión del equipo estuve todo el día trabajando en el proyecto solventando errores y buscando posibles soluciones.
+
+Día 40(20/02/2025)8:15 - 15:00: Como siempre tuve reunión con el tutor y después con el equipo, estuve depurando código durante todo el día, buscando bugs y errores respecto al código que estaba depurando.
+
+Día 41(21/02/2025)8:15 - 15:00: Después de las reuniones diarias estuve todo el día solventando fallos en el código de otra tarea que tenía, aparentemente ya resueltos a final del día.
+
+Día 42(24/02/2025)8:15 - 15:00: Estuve liado con la primera reunión y no pude acceder a la de equipo, estuve hablando sobre como estaba depurado el código y exponiendo con el jefe de la tarea las 
+fallas encontradas en documentos.
+
+Día 43(25/02/2025)8:15 - 15:00: A primera hora tuve la reunión diaria con mi tutor, luego la reunión del equipo, estuve todo el día con la tarea del proyecto que me asignaron solventando fallos e
+intentado que todo funcionara como debía, al final del día ya funcionaba todo lo que estuve comprobando y decidí ponerme con la otra tarea para comprobar que funcionara, pero al actualizar todo no me dio tiempo
+de comprobarlo todo, eliminé del código partes que estaban obsoletas y no se necesitaban y comprobé que en local funcionaran.
+
+Día 44(27/02/2025)8:15 - 15:00: 
