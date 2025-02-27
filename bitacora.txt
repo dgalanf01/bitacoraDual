@@ -111,4 +111,5 @@ Día 43(25/02/2025)8:15 - 15:00: A primera hora tuve la reunión diaria con mi t
 intentado que todo funcionara como debía, al final del día ya funcionaba todo lo que estuve comprobando y decidí ponerme con la otra tarea para comprobar que funcionara, pero al actualizar todo no me dio tiempo
 de comprobarlo todo, eliminé del código partes que estaban obsoletas y no se necesitaban y comprobé que en local funcionaran.
 
-Día 44(27/02/2025)8:15 - 15:00: 
+Día 44(27/02/2025)8:15 - 15:00: Hoy hemos tenido reunión matutina , como todos los días, hemos expuesto un poco todo lo que llevamos hecho en el proyecto, a media mañana hemos tenido una review para
+que se viera lo que tenemos ya preparado, después nos mantuvimos en la runion para ver la prioridad y tiempo estimado para las siguientes tareas a realizar.
