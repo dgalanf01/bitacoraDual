@@ -113,3 +113,9 @@ de comprobarlo todo, eliminé del código partes que estaban obsoletas y no se n
 
 Día 44(27/02/2025)8:15 - 15:00: Hoy hemos tenido reunión matutina , como todos los días, hemos expuesto un poco todo lo que llevamos hecho en el proyecto, a media mañana hemos tenido una review para
 que se viera lo que tenemos ya preparado, después nos mantuvimos en la runion para ver la prioridad y tiempo estimado para las siguientes tareas a realizar.
+
+Día 45(28/02/2025)8:15 - 15:00: La mitad del día de hoy ha sido estar en reuniones, tuvimos reunión con el cliente, después tuvimos una retro para observar las cosas positivas, negativas, ideas para futuro 
+y tareas a realizar para la siguiente retro. He estado intentando cambiar una parte del proyecto que me tocó realizar a mi, por que el componente que estaba usando no realizaba las funciones como debía,
+me han facilitado otro componente a utilizar para ver si este funciona como corresponde, como todavía no lo he conseguido adaptar con este nuevo componente estaré revisando como puedo adaptarlo
+y así obtener el resultado deseado.
+
