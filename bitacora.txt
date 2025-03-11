@@ -71,7 +71,7 @@ Día 27(28/01/2025)8:15 - 15:00: Tuvimos la reunión matutina, estuve todo el d�
 
 Día 28(30/01/2025)8:15 - 15:00: Hoy tras la reunión me puse a trabajar en la nueva implementación que me asignaron.
 
-Día 29(31/01/2025)8:15 - 15:00: Como siempre tuvimos una reunión, donde me aclararon parte de dudas que tenía y donde me dieron un feedback bastante bueno respecto a las ideas que estaba teniendo. 
+Día 29(31/01/2025)8:15 - 15:00: Como siempre, tuvimos una reunión, donde me aclararon parte de dudas que tenía y donde me dieron un feedback bastante bueno respecto a las ideas que estaba teniendo. 
 
 Día 30(3/02/2025)8:15 - 15:00: Tuvimos una reunión de equipo donde estuvimos platicando respecto a nuestros avances en nuestras tareas, continué buscando información de como solventar problemas que me encontré 
 a la hora de realizar mi tarea, estuve concretando con uno de mis compañeros respecto a como funcionan algunas cosas del lenguaje y tras haberme solventado las dudas pude avanzar.
@@ -81,10 +81,10 @@ Día 31(4/02/2025)8:15 - 15:00: Tuvimos una reunión para hablar sobre como íba
 Día 32(6/02/2025)8:15 - 15:00: Seguí comprobando y buscando el posible error que se encontraba en mi parte del trabajo, aparentemente se ubica en otra parte que no he estado mirando, estoy preguntando dudas
 respecto a como terminan de funcionar algunas partes del proyecto para poder ir sobre seguro.
 
-Día 33(7/02/2025)8:15 - 15:00: Como siempre tuve la reunión diaria con mi tutor, le estuve comentando un poco respecto a los avances que estaba haciendo en el proyecto y resolviendo algunas dudas, tuve varias
+Día 33(7/02/2025)8:15 - 15:00: Como siempre, tuve la reunión diaria con mi tutor, le estuve comentando un poco respecto a los avances que estaba haciendo en el proyecto y resolviendo algunas dudas, tuve varias
 reuniones con el equipo y finalmente estuve avanzando en el curso de angular.
 
-Día 34(10/02/2025)8:15 - 15:00: Hoy tuvimos reunión con el tutor, nos dijeron de actualizar unos datos de la tarea que se nos encomendó, más tarde tuvimo reunión con el equipo para como íbamos, 
+Día 34(10/02/2025)8:15 - 15:00: Hoy tuvimos reunión con el tutor, nos dijeron de actualizar unos datos de la tarea que se nos encomendó, más tarde tuvimos reunión con el equipo para ver como íbamos, 
 estuvimos resolviendo algunas dudas y problemas que íbamos encontrando mientras avanzábamos en nuestra labor.
 
 Día 35(11/02/2025)8:15 - 15:00: Tuvimos nuestra reunión diaria con el tutor, prácticamente mi día se fue en intentar solventar una migración en una parte del proyecto.
@@ -125,3 +125,15 @@ semana, estuve todo el día con ese proyecto hasta la reunión del equipo.
 Día 47(7/03/2025)8:15 - 15:00: Hoy nos volvimos a reunir con nuestro tutor, estuvimos hablando de los avances y problemas que encontramos en el proyacto secundario, nos estuvieron comentando sobre
 los cambios que realizó el jefe del proyecto en la tarde anterior y seguí trabajando en ello, terminé mi parte del proyecto y le dieron el visto bueno, después nos reunimos con el equipo del proyecto 
 principal y estuvimos poniendonos al día sobre las actualizaciones que teníamos que hacer de versiones, nos adjudicaron trabajo y estuve con ello todo el día.
+
+Día 48(10/03/2025)8:15 - 15:00: Como siempre tuvimos una reunión, donde me aclararon parte de dudas que tenía y donde me dieron un feedback bastante bueno respecto a las ideas que estaba teniendo. 
+
+Día 49(11/03/2025)8:15 - 15:00: Tuvimos la reunión matutina, estuve todo el día con una tarea haciendo comprobaciones de funcionamiento e intentando mejorar el código.
+
+Día 50(13/03/2025)8:15 - 15:00: Hoy tuvimos reunión con el tutor, nos dijeron de actualizar unos datos de la tarea que se nos encomendó, más tarde tuvimos reunión con el equipo para ver como íbamos, 
+estuvimos resolviendo algunas dudas y problemas que íbamos encontrando mientras avanzábamos en nuestra labor.
+
+Día 51(14/03/2025)8:15 - 15:00: Como siempre tuvimos nuestra reunión con el tutor, estuve todo el día con mi parte del proyecto, estuve consultando con mis compañeros algunas dudas.
+
+Día 52(17/03/2025)8:15 - 15:00: Hoy es el último día de nuestro período de dual, como siempre estuve reunido a primera hora con mi tutor, después con el equipo del proyecto y finalmente estuve trabajando
+en el proyecto hasta el final de la jornada.
